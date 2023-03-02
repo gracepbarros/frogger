@@ -1,8 +1,8 @@
 //Get Images
 let p1 = new Image();
-p1.src = "../assets/sprites.png";
+p1.src = "sprites.png";
 let dead = new Image();
-dead.src = "../assets/dead.png";
+dead.src = "dead.png";
 
 
 //Get all Canvas and Context
